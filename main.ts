@@ -47,7 +47,7 @@ namespace robotbit {
     const HT16K33_CMD_BRIGHTNESS = 0xE0
 
     export enum Servos {
-        S1 = 0x01,
+        서보1 = 0x01,
         S2 = 0x02,
         S3 = 0x03,
         S4 = 0x04,
