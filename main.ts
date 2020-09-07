@@ -6,7 +6,7 @@ load dependency
 */
 
 
-//% color="#31C7D5" weight=200 icon="\uf1d0"
+//% color="#31C7D5" weight=30 icon="\uf1d0"
 namespace 익사이봇 {
     const PCA9685_ADDRESS = 0x40
     const MODE1 = 0x00
