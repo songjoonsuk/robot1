@@ -1,15 +1,13 @@
-# robotbit
+# Edubit
 
 Extension for Kittenbot Robotbit
 
 ## Feature
 
-- Designed for robotic projects over microbit
-- On board battery source
-- Drive 8x servos and 4x DC motors and the same time (with 3.7v battery source to VM)
-- Drive 2x Micro Stepper Motors
-- On board buzzer
-- On board 4x RGB Neo Pixels
+- For robotic & sensors projects with microbit
+- 4x servos motors and 2x DC motors  
+- buzzer
+- 2x RGB LEDs
 
 # Blocks Preview
 ![image](https://user-images.githubusercontent.com/3390845/34512193-b3e0ffdc-f09b-11e7-839f-0c9c3563ac94.png)
@@ -36,5 +34,5 @@ MIT
 (The metadata above is needed for package search.)
 
 ```package
-robotbit=github:Kittenbot/pxt-robotbit
+edubit=github:joonsuksong/pxt-edubit
 ```
