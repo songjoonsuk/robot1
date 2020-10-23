@@ -6,8 +6,8 @@ Extension for Edubit
 
 - For robotic & various sensors projects on microbit
 - Servo motor x 4  and  DC motor x 2 
-- buzzer
-- Pure RGB LED x2
+- Buzzer
+- Pure RGB LED x 2
 
 # Blocks Preview
 ![image](https://user-images.githubusercontent.com/3390845/34512193-b3e0ffdc-f09b-11e7-839f-0c9c3563ac94.png)
