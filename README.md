@@ -34,5 +34,5 @@ MIT
 (The metadata above is needed for package search.)
 
 ```package
-edubit=github:joonsuksong/pxt-edubit
+edubit=github:songjoonsuk/pxt-edubit
 ```
