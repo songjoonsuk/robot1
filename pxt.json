@@ -4,8 +4,8 @@
     "description": "Extension for Edubit",
     "license": "MIT",
     "dependencies": {
-        "core": "*",
-        "neopixel": "github:kittenbot/pxt-neopixel#v0.6.15"
+        "core": "*"
+    /*    "neopixel": "github:kittenbot/pxt-neopixel#v0.6.15" */
     },
     "files": [
         "README.md",
