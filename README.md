@@ -1,6 +1,6 @@
 # edubit
 
-Extension for Kittenbot Robotbit
+Extension for Edubit
 
 ## Feature
 
