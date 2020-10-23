@@ -4,10 +4,10 @@ Extension for Edubit
 
 ## Feature
 
-- For robotic & sensors projects with microbit
-- 4x servos motors and 2x DC motors  
+- For robotic & various sensors projects on microbit
+- Servo motor x 4  and  DC motor x 2 
 - buzzer
-- 2x RGB LEDs
+- Pure RGB LED x2
 
 # Blocks Preview
 ![image](https://user-images.githubusercontent.com/3390845/34512193-b3e0ffdc-f09b-11e7-839f-0c9c3563ac94.png)
