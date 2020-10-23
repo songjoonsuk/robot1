@@ -58,10 +58,10 @@ namespace Edubit {
     }
 
     export enum Motors {
-        M1A = 0x1,
-        M1B = 0x2,
-        M2A = 0x3,
-        M2B = 0x4
+        A1 = 0x1,
+        A2 = 0x2,
+        B1 = 0x3,
+        B2 = 0x4
     }
 
     export enum Steppers {
