@@ -1,4 +1,4 @@
-# Edubit
+# edubit
 
 Extension for Kittenbot Robotbit
 
