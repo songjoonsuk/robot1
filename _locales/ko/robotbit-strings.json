@@ -1,7 +1,7 @@
 {
-    "에듀비트.Servo|block": "9g서보|%index|각도 %degree",
-    "에듀비트.GeekServo|block": "긱서보|9g舵机|%index|角度 %degree",
-    "에듀비트.GeekServo2KG|block": "긱서보|2KG舵机|%index|角度 %degree",
+    "edubit.Servo|block": "9g서보|%index|각도 %degree",
+    "edubit.GeekServo|block": "긱서보|9g舵机|%index|角度 %degree",
+    "edubit.GeekServo2KG|block": "긱서보|2KG舵机|%index|角度 %degree",
     "robotbit.StepperDegree|block": "步进 28BYJ-48|%index|角度 %degree",
     "robotbit.StepperTurn|block": "步进 28BYJ-48|%index|圈数 %turn",
     "robotbit.StepperDual|block": "双步进(角度) |M1 %degree1| M2 %degree2",
