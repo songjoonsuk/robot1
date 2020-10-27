@@ -7,7 +7,7 @@ load dependency
 
 
 //% color="#31C7D5" weight=150 icon="\uf63b"
-namespace 에듀비트 {
+namespace edubit {
     const PCA9685_ADDRESS = 0x40
     const MODE1 = 0x00
     const MODE2 = 0x01
